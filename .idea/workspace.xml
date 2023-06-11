@@ -43,12 +43,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/UNIVERSIDAD/VI  CICLO/Desarrollo de Aplicaciones Open Source/Code - Backend/CRUD - Library",
+    "last_opened_file_path": "D:/DS/Universidad/Open Source/FinalDayTB2/Hato",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "spring.configuration.checksum": "5a252a6e34e11d1c677949603a64acc4",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,9 +59,11 @@
       <recent name="D:\UNIVERSIDAD\VI  CICLO\Desarrollo de Aplicaciones Open Source\Final Project\TB2\Hato\src\main\java\com\upc\Hato\exception" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.upc.Hato.service" />
-      <recent name="com.upc.Hato.repository" />
       <recent name="com.upc.Hato.controller" />
+      <recent name="com.upc.Hato.model" />
+      <recent name="com.upc.Hato.repository" />
+      <recent name="com.upc.Hato.service.Impl" />
+      <recent name="com.upc.Hato.service" />
     </key>
   </component>
   <component name="RunManager">
@@ -82,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1686416920802</updated>
       <workItem from="1686416922163" duration="4556000" />
-      <workItem from="1686427398573" duration="1283000" />
+      <workItem from="1686421685246" duration="11515000" />
+      <workItem from="1686439954565" duration="2415000" />
     </task>
     <servers />
   </component>
